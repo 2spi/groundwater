@@ -28,4 +28,4 @@ figures/*.pdf
 *.log
 
 data/
-outputs/
+outputs/scripts/
